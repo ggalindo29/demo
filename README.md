@@ -1,2 +1,6 @@
 # demo
-Demo- CSC 174
+Type stuff blah blah blah
+make a list
+  -thing 1
+  -thing 2
+  -blah blah blah
